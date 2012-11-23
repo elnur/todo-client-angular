@@ -1,0 +1,14 @@
+{
+    "name": "elnur/todo-angular",
+    "require": {
+        "silex/silex": "@dev",
+        "mheap/Silex-Assetic": "@dev"
+    },
+    "authors": [
+        {
+            "name": "Elnur Abdurrakhimov",
+            "email": "elnur@elnur.pro",
+            "homepage": "http://www.elnur.pro"
+        }
+    ]
+}
